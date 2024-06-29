@@ -13,7 +13,6 @@ def get_requirements(file_path : str) -> List[str]:
 
     return req
 
-
 setup(
     name = 'ml-tut-1',
     version = '1.0',
